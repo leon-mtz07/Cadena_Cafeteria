@@ -1,0 +1,101 @@
+store_id,city,neighborhood,opening_date
+1,Chicago,Downtown,2022-08-02
+2,Phoenix,Westside,2019-08-17
+3,Chicago,Financial District,2019-02-21
+4,San Jose,Chinatown,2020-07-17
+5,San Diego,Financial District,2020-05-16
+6,San Diego,Uptown,2020-04-02
+7,Philadelphia,Westside,2019-10-13
+8,Philadelphia,Financial District,2019-07-29
+9,Houston,Chinatown,2022-10-17
+10,Houston,Financial District,2022-01-21
+11,Los Angeles,Old Town,2019-06-28
+12,San Jose,Arts District,2022-04-24
+13,Houston,Arts District,2021-05-14
+14,Dallas,Financial District,2019-03-07
+15,San Jose,Chinatown,2019-03-03
+16,Los Angeles,Old Town,2019-07-11
+17,San Diego,Downtown,2020-03-23
+18,New York,Downtown,2020-04-21
+19,Los Angeles,Old Town,2021-10-31
+20,Los Angeles,Midtown,2022-05-17
+21,Philadelphia,Chinatown,2019-02-24
+22,San Antonio,Downtown,2022-02-23
+23,Chicago,Midtown,2020-02-12
+24,San Diego,Chinatown,2022-08-23
+25,Phoenix,Old Town,2022-12-07
+26,Phoenix,Tech Square,2022-01-21
+27,Houston,Midtown,2021-05-09
+28,San Diego,Midtown,2020-03-27
+29,Dallas,Financial District,2021-07-08
+30,Houston,Eastside,2022-04-21
+31,Houston,Eastside,2020-07-23
+32,Los Angeles,Chinatown,2019-01-14
+33,San Diego,Financial District,2019-11-23
+34,Chicago,Arts District,2022-11-30
+35,Houston,Westside,2021-05-15
+36,San Antonio,Tech Square,2020-11-27
+37,San Jose,Westside,2020-07-23
+38,Dallas,Midtown,2019-11-15
+39,Dallas,Uptown,2020-03-16
+40,Houston,Downtown,2020-11-20
+41,San Antonio,Downtown,2019-07-29
+42,San Jose,Financial District,2019-07-09
+43,New York,Eastside,2021-02-17
+44,Philadelphia,Uptown,2019-07-18
+45,Philadelphia,Financial District,2021-01-05
+46,Philadelphia,Midtown,2020-12-05
+47,Los Angeles,Uptown,2022-05-21
+48,Dallas,Downtown,2020-06-25
+49,Phoenix,Chinatown,2019-03-30
+50,Phoenix,Midtown,2021-07-29
+51,Los Angeles,Financial District,2022-01-03
+52,Houston,Arts District,2019-09-13
+53,San Diego,Old Town,2021-02-14
+54,San Diego,Midtown,2019-06-11
+55,Philadelphia,Midtown,2022-02-04
+56,San Diego,Arts District,2020-08-23
+57,Houston,Tech Square,2022-07-11
+58,New York,Chinatown,2022-06-20
+59,Los Angeles,Arts District,2021-01-10
+60,New York,Westside,2022-03-28
+61,Dallas,Westside,2020-01-29
+62,San Diego,Midtown,2022-12-13
+63,San Jose,Tech Square,2019-05-23
+64,Philadelphia,Downtown,2019-04-04
+65,Los Angeles,Tech Square,2022-09-16
+66,Philadelphia,Westside,2020-04-11
+67,San Diego,Tech Square,2020-08-15
+68,Chicago,Tech Square,2019-06-13
+69,San Diego,Chinatown,2020-04-21
+70,Los Angeles,Midtown,2019-07-26
+71,Phoenix,Chinatown,2021-02-17
+72,Los Angeles,Downtown,2020-07-23
+73,San Antonio,Downtown,2021-07-17
+74,San Jose,Westside,2022-07-25
+75,San Diego,Financial District,2021-01-17
+76,San Antonio,Arts District,2019-11-30
+77,Phoenix,Eastside,2021-01-28
+78,Houston,Midtown,2020-12-28
+79,Houston,Financial District,2020-03-05
+80,San Jose,Midtown,2022-10-04
+81,Dallas,Arts District,2020-06-30
+82,San Jose,Arts District,2022-12-08
+83,San Jose,Uptown,2022-10-31
+84,San Jose,Chinatown,2022-08-20
+85,San Jose,Westside,2019-05-27
+86,San Jose,Uptown,2022-06-01
+87,New York,Downtown,2022-07-24
+88,Phoenix,Eastside,2019-12-17
+89,Los Angeles,Westside,2021-12-29
+90,San Diego,Downtown,2020-05-16
+91,San Antonio,Tech Square,2019-12-01
+92,San Jose,Chinatown,2021-08-04
+93,Dallas,Chinatown,2021-02-16
+94,Philadelphia,Chinatown,2020-07-06
+95,San Diego,Uptown,2022-08-03
+96,Philadelphia,Old Town,2022-11-10
+97,San Antonio,Financial District,2022-02-14
+98,San Antonio,Arts District,2020-03-25
+99,San Diego,Eastside,2022-11-03
+100,Dallas,Arts District,2020-10-26

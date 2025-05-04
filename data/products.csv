@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,Espresso,coffee,2.5
+2,Latte,coffee,3.0
+3,Cappuccino,coffee,3.2
+4,Americano,coffee,2.8
+5,Matcha Tea,tea,3.5
+6,Black Tea,tea,2.7
+7,Croissant,pastry,2.0
+8,Muffin,pastry,2.2
+9,Bagel,pastry,1.8
+10,Sandwich,sandwich,4.0
