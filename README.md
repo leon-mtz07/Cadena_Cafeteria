@@ -12,4 +12,5 @@ rendimiento financiero de una cadena de cafeterías a partir de una base de dato
 - Python 3.12
 - Pandas
 - Matplotlib / Seaborn
+- SQLALchemy
 - Jupyter Notebook

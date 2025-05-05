@@ -74,7 +74,7 @@ ORDER BY
 SELECT
     city,
     neighborhood,
-    ROUND(AVG(quantity) * AVG(price), 2) AS avg_ticket
+    ROUND(SUM(price * quantity) / COUNT(DISTINCT transaction_id), 2) AS avg_ticket
 FROM
     stores
 INNER JOIN transactions ON stores.store_id = transactions.store_id
